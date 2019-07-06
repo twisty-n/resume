@@ -1,0 +1,92 @@
+{
+    "basics": {
+      "name": "Tristan Newmann",
+      "label": "",
+      "image": "",
+      "email": "newmann.tristan@gmail.com",
+      "url": "http://tnewmann.info",
+      "summary": "(IMPORTANT: This is a work-in-process. Thanks for stopping by!) Tristan is an outcomes driven software professional that loves solving problems. Right now, you can probably find him vacuuming up the latest content from HackerNews or planning his next DnD campaign.",
+      "location": {
+        "city": "Sydney",
+        "countryCode": "AU",
+        "region": "New South Wales"
+      },
+      "profiles": [
+        {
+          "network": "GitHub",
+          "username": "twisty-n",
+          "url": "https://github.com/twisty-n"
+        },
+        {
+          "network": "LinkedIn",
+          "url": "https://www.linkedin.com/in/tristan-newmann-02294/"
+        }
+      ]
+    },
+    "work": [
+      {
+        "name": "Appian",
+        "location": "Virgina, USA",
+        "description": "",
+        "position": "Senior Solution Engineer",
+        "url": "https://www.appian.com",
+        "startDate": "2019-04-01",
+        "summary": "Appian makes it easy to build powerful enterprise applications... fast!",
+        "highlights": [
+          "This is a work in progress. Thanks for stopping by!"
+        ]
+      }
+    ],
+    "volunteer": [
+      {
+        "organization": "NSW State Emergency Service",
+        "position": "Operator",
+        "startDate": "2013-07-00",
+        "endDate": "2015-03-00",
+        "summary": "Disaster and Humanitarian Relief"
+      }
+    ],
+    "education": [
+      {
+        "institution": "University of Newcastle",
+        "area": "Software Engineering",
+        "studyType": "Bachelor",
+        "gpa": "Distinction"
+      }
+    ],
+    "awards": [
+      {
+        
+      }
+    ],
+    "skills": [
+      {
+        "name": "Front End Development",
+        "level": "Intermediate",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "SCSS",
+          "Bootstrap",
+          "Javascript",
+          "React",
+          "Redux"
+        ]
+      }
+    ],
+    "languages": [
+      {
+        "language": "English",
+        "fluency": "Native speaker"
+      }
+    ],
+    "interests": [
+    ],
+    "projects": [
+    ],
+    "meta": {
+      "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+      "version": "v1.0.0",
+      "lastModified": "2017-12-24T15:53:00"
+    }
+  }
