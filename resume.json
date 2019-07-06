@@ -41,8 +41,8 @@
       {
         "organization": "NSW State Emergency Service",
         "position": "Operator",
-        "startDate": "2013-07-00",
-        "endDate": "2015-03-00",
+        "startDate": "2013-07-01",
+        "endDate": "2015-03-01",
         "summary": "Disaster and Humanitarian Relief"
       }
     ],
@@ -52,11 +52,6 @@
         "area": "Software Engineering",
         "studyType": "Bachelor",
         "gpa": "Distinction"
-      }
-    ],
-    "awards": [
-      {
-        
       }
     ],
     "skills": [
@@ -87,6 +82,7 @@
     "meta": {
       "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
       "version": "v1.0.0",
-      "lastModified": "2017-12-24T15:53:00"
+      "lastModified": "2017-12-24T15:53:00",
+      "theme": "elegant"
     }
   }
